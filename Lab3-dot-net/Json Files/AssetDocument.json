@@ -1,0 +1,127 @@
+[
+  {
+    "AssetId": 1,
+    "DocumentId": 1,
+    "Date": "2023-01-15T00:00:00"
+  },
+  {
+    "AssetId": 2,
+    "DocumentId": 2,
+    "Date": "2023-02-28T00:00:00"
+  },
+  {
+    "AssetId": 3,
+    "DocumentId": 2,
+    "Date": "2023-04-05T00:00:00"
+  },
+  {
+    "AssetId": 4,
+    "DocumentId": 3,
+    "Date": "2023-07-30T00:00:00"
+  },
+  {
+    "AssetId": 5,
+    "DocumentId": 7,
+    "Date": "2023-08-08T00:00:00"
+  },
+  {
+    "AssetId": 6,
+    "DocumentId": 3,
+    "Date": "2023-09-16T00:00:00"
+  },
+  {
+    "AssetId": 7,
+    "DocumentId": 1,
+    "Date": "2023-08-08T00:00:00"
+  },
+  {
+    "AssetId": 8,
+    "DocumentId": 6,
+    "Date": "2023-11-15T00:00:00"
+  },
+  {
+    "AssetId": 9,
+    "DocumentId": 5,
+    "Date": "2023-12-28T00:00:00"
+  },
+  {
+    "AssetId": 10,
+    "DocumentId": 7,
+    "Date": "2024-01-10T00:00:00"
+  },
+  {
+    "AssetId": 1,
+    "DocumentId": 4,
+    "Date": "2024-02-05T00:00:00"
+  },
+  {
+    "AssetId": 2,
+    "DocumentId": 8,
+    "Date": "2024-03-20T00:00:00"
+  },
+  {
+    "AssetId": 3,
+    "DocumentId": 5,
+    "Date": "2024-04-12T00:00:00"
+  },
+  {
+    "AssetId": 4,
+    "DocumentId": 4,
+    "Date": "2024-05-30T00:00:00"
+  },
+  {
+    "AssetId": 5,
+    "DocumentId": 6,
+    "Date": "2024-06-08T00:00:00"
+  },
+  {
+    "AssetId": 6,
+    "DocumentId": 9,
+    "Date": "2024-07-16T00:00:00"
+  },
+  {
+    "AssetId": 11,
+    "DocumentId": 6,
+    "Date": "2023-11-15T00:00:00"
+  },
+  {
+    "AssetId": 12,
+    "DocumentId": 5,
+    "Date": "2023-12-28T00:00:00"
+  },
+  {
+    "AssetId": 13,
+    "DocumentId": 7,
+    "Date": "2024-01-10T00:00:00"
+  },
+  {
+    "AssetId": 14,
+    "DocumentId": 4,
+    "Date": "2024-02-05T00:00:00"
+  },
+  {
+    "AssetId": 15,
+    "DocumentId": 8,
+    "Date": "2024-03-20T00:00:00"
+  },
+  {
+    "AssetId": 16,
+    "DocumentId": 5,
+    "Date": "2024-04-12T00:00:00"
+  },
+  {
+    "AssetId": 17,
+    "DocumentId": 4,
+    "Date": "2024-05-30T00:00:00"
+  },
+  {
+    "AssetId": 18,
+    "DocumentId": 6,
+    "Date": "2024-06-08T00:00:00"
+  },
+  {
+    "AssetId": 18,
+    "DocumentId": 9,
+    "Date": "2024-07-16T00:00:00"
+  }
+]

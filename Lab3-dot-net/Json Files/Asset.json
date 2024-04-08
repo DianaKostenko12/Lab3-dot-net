@@ -1,0 +1,154 @@
+[
+  {
+    "Id": 1,
+    "InventoryNumber": 1101,
+    "Name": "Верстат токарний",
+    "InitialCost": 1500,
+    "DepartmentId": 1,
+    "ResponsiblePersonId": 1
+  },
+  {
+    "Id": 2,
+    "InventoryNumber": 1102,
+    "Name": "Прес гiдравлiчний",
+    "InitialCost": 2000,
+    "DepartmentId": 1,
+    "ResponsiblePersonId": 1
+  },
+  {
+    "Id": 3,
+    "InventoryNumber": 1103,
+    "Name": "Конвеєр лiнiйний",
+    "InitialCost": 3000,
+    "DepartmentId": 1,
+    "ResponsiblePersonId": 2
+  },
+  {
+    "Id": 4,
+    "InventoryNumber": 1201,
+    "Name": "Комп'ютер офiсний",
+    "InitialCost": 800,
+    "DepartmentId": 2,
+    "ResponsiblePersonId": 2
+  },
+  {
+    "Id": 5,
+    "InventoryNumber": 1202,
+    "Name": "Принтер лазерний",
+    "InitialCost": 400,
+    "DepartmentId": 2,
+    "ResponsiblePersonId": 3
+  },
+  {
+    "Id": 6,
+    "InventoryNumber": 1203,
+    "Name": "Сканер документiв",
+    "InitialCost": 300,
+    "DepartmentId": 2,
+    "ResponsiblePersonId": 3
+  },
+  {
+    "Id": 7,
+    "InventoryNumber": 1301,
+    "Name": "Осцилограф цифровий",
+    "InitialCost": 1200,
+    "DepartmentId": 3,
+    "ResponsiblePersonId": 4
+  },
+  {
+    "Id": 8,
+    "InventoryNumber": 1302,
+    "Name": "Тепловiзор FLIR",
+    "InitialCost": 2500,
+    "DepartmentId": 3,
+    "ResponsiblePersonId": 4
+  },
+  {
+    "Id": 9,
+    "InventoryNumber": 1303,
+    "Name": "Лазерний вимiрювач дистанцiї",
+    "InitialCost": 150,
+    "DepartmentId": 3,
+    "ResponsiblePersonId": 5
+  },
+  {
+    "Id": 10,
+    "InventoryNumber": 1401,
+    "Name": "Банкiвський термiнал",
+    "InitialCost": 500,
+    "DepartmentId": 4,
+    "ResponsiblePersonId": 5
+  },
+  {
+    "Id": 11,
+    "InventoryNumber": 1402,
+    "Name": "Касовий апарат",
+    "InitialCost": 700,
+    "DepartmentId": 4,
+    "ResponsiblePersonId": 6
+  },
+  {
+    "Id": 12,
+    "InventoryNumber": 1403,
+    "Name": "Калькулятор офiсний",
+    "InitialCost": 50,
+    "DepartmentId": 4,
+    "ResponsiblePersonId": 6
+  },
+  {
+    "Id": 13,
+    "InventoryNumber": 1501,
+    "Name": "Вантажiвка велика",
+    "InitialCost": 20000,
+    "DepartmentId": 5,
+    "ResponsiblePersonId": 7
+  },
+  {
+    "Id": 14,
+    "InventoryNumber": 1502,
+    "Name": "Складськi стелажi",
+    "InitialCost": 1000,
+    "DepartmentId": 5,
+    "ResponsiblePersonId": 7
+  },
+  {
+    "Id": 15,
+    "InventoryNumber": 1503,
+    "Name": "Палетнi стiйки",
+    "InitialCost": 800,
+    "DepartmentId": 5,
+    "ResponsiblePersonId": 8
+  },
+  {
+    "Id": 16,
+    "InventoryNumber": 1204,
+    "Name": "Копiр Xerox",
+    "InitialCost": 600,
+    "DepartmentId": 2,
+    "ResponsiblePersonId": 8
+  },
+  {
+    "Id": 17,
+    "InventoryNumber": 1205,
+    "Name": "Мультимедiйний проектор",
+    "InitialCost": 1000,
+    "DepartmentId": 2,
+    "ResponsiblePersonId": 9
+  },
+  {
+    "Id": 18,
+    "InventoryNumber": 1504,
+    "Name": "Вантажний електрокар",
+    "InitialCost": 5000,
+    "DepartmentId": 5,
+    "ResponsiblePersonId": 10
+  },
+  {
+    "Id": 19,
+    "InventoryNumber": 1505,
+    "Name": "Осцилограф цифровий",
+    "InitialCost": 1200,
+    "DepartmentId": 3,
+    "ResponsiblePersonId": 4
+  }
+]
